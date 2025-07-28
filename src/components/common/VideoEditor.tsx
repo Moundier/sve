@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import VerticalBar from './VerticalBar';
+import VerticalBar from './bar/BarVertical';
 // import type { Track } from '../models/Track';
 
 type Track = {
