@@ -46,8 +46,3 @@ Motivos
 - Python (FastAPI): menos código, simples e rápido.
 - FFmpeg/FFprobe: padrão robusto para editar e ler vídeos.
 
-Videos inspiration
-https://www.youtube.com/watch?v=lhNA_cmOG4Y
-
-
-Se a realidade é subjetiva e construída pela percepção individual, ent qnd duas pessoas discordam sobre um fato, quem tá mais certo: quem vive na ilusão mais coerente ou quem ignora que tudo é ilusão?
